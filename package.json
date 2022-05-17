@@ -1,7 +1,7 @@
 {
   "scripts": {
     "tsc": "tsc",
-    "dev": "nodemon src/index.ts",
+    "dev": "src/index.ts",
     "app": "nodemon src/internalapp/index.ts",
     "build": "nodemon src/internalapp/index.ts"
   },
